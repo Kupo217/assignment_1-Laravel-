@@ -1,1 +1,3 @@
-# CRUD functions for the USERS
+# Assignment 1 
+
+Laravel course - Week 2
